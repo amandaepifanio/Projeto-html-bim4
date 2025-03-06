@@ -1,0 +1,417 @@
+body {
+     background-color: #FCFAEE;
+   }
+
+   #fotoinicial{
+    color: black;
+    align-content: center;
+   }
+
+  #fotoinicial{
+    font-family: 'Arial';
+    font-size: 40px;
+    text-align: center;
+   }
+  div.scrollmenu{
+    background-color: #507687;
+    overflow: auto;
+    white-space: nowrap;
+    text-align: center;
+    border: solid #384B70;
+   }
+   div.scrollmenu a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 2px;
+    text-decoration: underline;
+    text-align: center;
+   }
+  div.scrollmenu a:hover{
+    background-color: #777;
+  }
+  #Apresentação {
+    color: #B8001F;
+   }
+  #Apresentação{
+    font-family: 'Calibri';
+    font-size: 16px;
+    border: solid #B8001F;
+   }
+
+   #Apresentaçãoh3{
+    color: #B8001F;
+   }
+
+  #Apresentaçãoh3{
+    font-family:'Calibri';
+    font-size: 16px;
+  }
+   #Dicas {
+    color: #FCFAEE;
+
+   }
+
+  #Dicas{
+    font-family: 'Calibri';
+    font-size: 16px;
+    list-style-type: none;
+    margin: 2px;
+    padding: 2px;
+    overflow: auto;
+    background-color:#507687;
+    border: solid  #384B70;
+   }
+
+  #Dicash3 {
+    color: white;
+
+   }
+
+  #Dicash3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #ULdicas {
+    color: ghostwhite;
+
+   }
+
+  #ULdicas {
+    font-family: 'Calibri';
+    font-size: 16px;
+    list-style-type: none;
+    margin: 2px;
+    padding: 2px;
+    overflow: auto;
+    background-color: #507687;
+   }
+    
+   #Dicas2h3 {
+    color: white;
+
+   }
+
+  #Dicas2h3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #Jogos{
+    color:#B8001F;
+    
+   }
+  #Jogos{
+    font-family: 'Calibri';
+    font-size: 16px;
+    border: solid #B8001F;
+   }
+   #Jogosh3{
+    color: #B8001F;
+
+   }
+  #Jogosh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #Listajogos {
+    color: ghostwhite;
+    
+   }
+
+   #Listajogos {
+    font-family:  'Calibri';
+    font-size: 16px;
+    list-style-type: none;
+    margin: 2px;
+    padding: 2px;
+    overflow: auto;
+    background-color: #507687;
+   }
+   #Quizyourenglishh3{
+    color: #B8001F;
+    
+   }
+  #Quizyourenglishh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #Drawsomethingh3{
+    color: #B8001F;
+  
+   }
+  #Drawsomethingh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #Wordbrainh3{
+    color: #B8001F;
+    
+   }
+  #Wordbrainh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+  #Aplicativos-e-sites{
+    color: ghostwhite;
+    
+   }
+  #Aplicativos-e-sites{
+    font-family: 'Calibri';
+    font-size: 16px;
+    list-style-type: none;
+    margin: 2px;
+    padding: 2px;
+    overflow: auto;
+    background-color: #507687;
+    border: solid  #384B70;
+   }
+   #Aesh3{
+    color: ghostwhite;
+    
+   }
+  #Aesh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #Listaaes {
+    color: ghostwhite;
+   
+   }
+
+   #Listaaes {
+    font-family: 'Calibri';
+    font-size: 16px;
+    list-style-type: none;
+    margin: 2px;
+    padding: 2px;
+    overflow: auto;
+    background-color: #507687;
+   }
+  #Duolingo{
+    color: ghostwhite;
+    text-align: center;
+   }
+  #Duolingo{
+    font-family: 'Calibri';
+    font-size: 30px;
+   } 
+   #Duoh3{
+    color: ghostwhite;
+    
+   }
+  #Duoh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+ } 
+   #alignn{
+    align-content:right;
+    
+   }
+  
+   #llh1{
+    color: ghostwhite;
+    text-align: center;
+   }
+  #llh1{
+    font-family: 'Calibri';
+    font-size: 30px;
+   }
+   #llh3{
+    color: ghostwhite;
+    
+   }
+  #llh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #beeh1{
+    color: ghostwhite;
+    text-align: center;
+   }
+  #beeh1{
+    font-family: 'Calibri';
+    font-size: 30px;
+   }
+   #beeh3{
+    color: ghostwhite;
+    
+   }
+  #beeh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #Youtube{
+    color: #B8001F;
+   
+   }
+  #Youtube{
+    font-family: 'Calibri';
+    font-size: 16px;
+    border: solid  #B8001F;
+   }
+   #youtubeh3{
+    color: #B8001F;
+    
+   }
+  #youtubeh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #Conb{
+    color: #B8001F;
+    text-align: center;
+   }
+  #Conb{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #tnb{
+    color: #B8001F;
+    text-align: center;
+   }
+  #tnb{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #tni{
+    color: #B8001F;
+    text-align: center;
+   }
+  #tni{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #vni{
+    color: #B8001F;
+    text-align: center;
+   }
+  #vni{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #tna{
+    color: #B8001F;
+    text-align: center;
+   }
+  #tna{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #vna{
+    color:#B8001F;
+    text-align: center;
+   }
+  #vna{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #tn{
+    color: #B8001F;
+    text-align: center;
+   }
+  #tn{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #Filmes-séries-e-músicas{
+    color: ghostwhite;
+   
+   }
+  #Filmes-séries-e-músicas{
+    font-family: 'Calibri';
+    font-size: 16px;
+    list-style-type: none;
+    margin: 2px;
+    padding: 2px;
+    overflow: auto;
+    background-color:#507687;
+    border: solid #384B70;
+   }
+   #fmsh1{
+    color: ghostwhite;
+    text-align: center;
+   }
+  #fmsh1{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #fmsh3{
+    color: ghostwhite;
+   
+   }
+  #fmsh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #tc{
+    color: ghostwhite;
+    text-align: center;
+   }
+  #tc{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #tabs{
+    color: ghostwhite;
+    text-align: center;
+   }
+  #tabs{
+    font-family:'Calibri';
+    font-size: 16px;
+   }
+   #mr{
+    color: ghostwhite;
+    text-align: center;
+   }
+  #mr{
+    font-family: 'Calibri';
+    font-size: 16px;
+    }
+  #Conclusão{
+    color: #B8001F;
+   
+   }
+  #Conclusão{
+    font-family: 'Calibri';
+    font-size: 16px;
+    border: solid  #B8001F;
+   }
+   #conclusãoh3{
+    color: #B8001F;
+   
+   }
+  #conclusãoh3{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #nome{
+    color: #B8001F;
+    text-align: center;
+   }
+  #nome{
+    font-family: 'Calibri';
+    font-size: 16px;
+   }
+   #footer{
+    color: black;
+    text-align: center;
+   }
+  #footer{
+    font-family: 'Calibri';
+    font-size: 16px;
+    border: solid #384B70;
+   }
+   .container{
+    display: grid;
+    place-items: center;
+   }
+   .container2{
+    display: grid;
+    place-items: center;
+   }
+   .h1cl{
+    display: grid;
+    place-items: center;
+    text-size-adjust: 40px;
+   }
